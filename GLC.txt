@@ -1,0 +1,4 @@
+<C> ::= if <E> then <C> else <C> endif
+<C> ::= if <E> then <C> endif
+<C> ::= com
+<E> ::= exp
